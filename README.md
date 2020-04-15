@@ -5,7 +5,11 @@ description: warnings
 # 施工警示
 
 {% hint style="info" %}
-## **BFM Unity V1文档已成为化石**
+## **BFM Unity V1文档，已成为化石，**
+
+## **V1文档仅具有考古收藏价值，**
+
+## **不具有实践指导意义。**
 {% endhint %}
 
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
