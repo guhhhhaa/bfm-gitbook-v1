@@ -7,7 +7,7 @@ description: warnings
 {% hint style="info" %}
 ## **BFM Unity V1文档，已成为化石，**
 
-## **V1文档仅具有考古收藏价值，**
+## **V1文档，仅具有考古收藏价值，**
 
 ## **不具有实践指导意义。**
 {% endhint %}
