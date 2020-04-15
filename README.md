@@ -14,7 +14,7 @@ description: warnings
 
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
 
-## 本文档，在保存施工牺牲者，墓地里的信息。
+## 本文档，在保存上一届施工牺牲者，墓地里的信息。
 
 ### 这里，是宇宙墓碑
 
