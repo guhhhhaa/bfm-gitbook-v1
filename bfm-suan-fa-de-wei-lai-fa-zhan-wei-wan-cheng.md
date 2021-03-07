@@ -16,9 +16,15 @@
 
 {% embed url="http://qbit.wpengine.com/wp-content/uploads/2016/10/1QBit-White-Paper-%E2%80%93-Finding-Optimal-Arbitrage-Opportunities-Using-a-Quantum-Annealer.pdf" caption="" %}
 
-## 硬件优化
+## FPGA
 
-### FPGA
+### ☁️
+
+[阿里云FPGA云服务器帮助文档](https://help.aliyun.com/product/155039.html)
+
+[腾讯云FPGA云服务器帮助文档](https://cloud.tencent.com/product/fpga/details)
+
+### 实际应用
 
 {% embed url="https://github.com/G-ram/HFT/tree/master/FOREX" caption="" %}
 
@@ -29,10 +35,4 @@
 [http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf](http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf)
 
 {% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf" caption="" %}
-
-## ☁️实际应用
-
-[阿里云FPGA云服务器帮助文档](https://help.aliyun.com/product/155039.html)
-
-[腾讯云FPGA云服务器帮助文档](https://cloud.tencent.com/product/fpga/details)
 
