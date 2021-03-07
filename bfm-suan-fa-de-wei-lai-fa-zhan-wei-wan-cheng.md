@@ -30,3 +30,7 @@
 
 {% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf" caption="" %}
 
+## 实际应用
+
+[阿里云FPGA云服务器帮助文档](https://help.aliyun.com/product/155039.html)
+
