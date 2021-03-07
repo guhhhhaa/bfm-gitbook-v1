@@ -20,9 +20,11 @@
 
 ### ☁️云FPGA服务器帮助文档
 
-[腾讯云FPGA云服务器帮助文档](https://cloud.tencent.com/product/fpga/details)
+[**腾讯云FPGA云服务器帮助文档**](https://cloud.tencent.com/product/fpga/details)\*\*\*\*
 
-[阿里云FPGA云服务器帮助文档](https://help.aliyun.com/product/155039.html)
+* \*\*\*\*[**腾讯云 FPGA 云服务器场景问题**](https://cloud.tencent.com/product/fpga/faqs)\*\*\*\*
+
+[**阿里云FPGA云服务器帮助文档**](https://help.aliyun.com/product/155039.html)\*\*\*\*
 
 ### 实际应用
 
