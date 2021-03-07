@@ -38,3 +38,15 @@
 
 {% embed url="http://www.cs.columbia.edu/~sedwards/classes/2016/4840-spring/reports/FOREX.pdf" caption="" %}
 
+## 其它
+
+[https://github.com/aeonstasis/sssp-fpga](https://github.com/aeonstasis/sssp-fpga)
+
+[https://github.com/aws/aws-fpga](https://github.com/aws/aws-fpga)
+
+[https://arxiv.org/pdf/1903.06697.pdf](https://arxiv.org/pdf/1903.06697.pdf)
+
+[https://pascal-francis.inist.fr/vibad/index.php?action=search&lang=en&terms=%22Reconfigurable+technology+%3A+FPGAs+and+reconfigurable+processors+for+computing+and+communications+III+%28Denver+CO%2C+21-22+August+2001%29%22&index=ti](https://pascal-francis.inist.fr/vibad/index.php?action=search&lang=en&terms=%22Reconfigurable+technology+%3A+FPGAs+and+reconfigurable+processors+for+computing+and+communications+III+%28Denver+CO%2C+21-22+August+2001%29%22&index=ti)
+
+[https://www.tib.eu/en/search/id/ieee%3Adoi~10.1109%252FICECA.2017.8212794/Parallel-implementation-of-Bellman-ford-algorithm/](https://www.tib.eu/en/search/id/ieee%3Adoi~10.1109%252FICECA.2017.8212794/Parallel-implementation-of-Bellman-ford-algorithm/)
+
