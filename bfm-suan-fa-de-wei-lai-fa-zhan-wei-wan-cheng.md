@@ -1,7 +1,7 @@
 # 【创新】未来发展
 
 {% hint style="warning" %}
-相关技术在落地中……
+相关技术在研发落地中……
 
 如果您持 **保守，观望** 和 **谨慎** 态度，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-on-java)。
 {% endhint %}
@@ -18,7 +18,7 @@
 
 ## FPGA
 
-### ☁️
+### ☁️云FPGA服务器帮助文档
 
 [阿里云FPGA云服务器帮助文档](https://help.aliyun.com/product/155039.html)
 
