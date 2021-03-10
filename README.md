@@ -10,6 +10,8 @@ description: warnings
 ## **V1文档，仅具有考古收藏价值，**
 
 ## **不具有实践指导意义。**
+
+\*\*\*\*[**转到新版**](https://www.bfm-unity.com/)\*\*\*\*
 {% endhint %}
 
 ![](.gitbook/assets/9lddq5-60urxrz7it3cs1hc-u0.png)
