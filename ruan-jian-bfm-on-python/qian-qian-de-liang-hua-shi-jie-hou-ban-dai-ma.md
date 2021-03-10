@@ -6,6 +6,8 @@
 
 {% embed url="https://www.bilibili.com/video/av85726683" caption="" %}
 
+{% embed url="https://mp.weixin.qq.com/s/MsXdWAGJR0Kl9BPIUPxQgA" %}
+
 ```python
 # 作者：千千量化
 # 说明：这是一个曾经实盘月化3-5%以上的套利策略，策略特点：稳健、高收益、低风险、容量大。
