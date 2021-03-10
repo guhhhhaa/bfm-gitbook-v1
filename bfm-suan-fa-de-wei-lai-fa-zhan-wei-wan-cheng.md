@@ -1,9 +1,9 @@
 # 【创新】未来发展
 
 {% hint style="warning" %}
-相关技术在研发落地中……
-
-如果您持 **保守，观望** 和 **谨慎** 态度，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-on-java)。
+相关技术在研发落地中……我们已经[**邀请币安**](https://www.binance.com/zh-CN/my/user-support/feedback/entry)共同推进研发。  
+  
+你也可以[**邀请币安**](https://www.binance.com/zh-CN/my/user-support/feedback/entry)\*\*\*\*
 {% endhint %}
 
 ![](.gitbook/assets/282c69f822ed2447614576b30f49cdc3.jpeg)
