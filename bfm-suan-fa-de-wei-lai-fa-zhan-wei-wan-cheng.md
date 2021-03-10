@@ -6,7 +6,7 @@
 如果您持 **保守，观望** 和 **谨慎** 态度，可以 [**跳过**](https://guhhhhaa.gitbook.io/bfm/bfm-on-java)。
 {% endhint %}
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200325-xia-wu-12.35.36.png)
+![](.gitbook/assets/282c69f822ed2447614576b30f49cdc3.jpeg)
 
 ## 量子退火
 
@@ -51,6 +51,4 @@
 {% embed url="https://www.tib.eu/en/search/id/ieee%3Adoi~10.1109%252FICECA.2017.8212794/Parallel-implementation-of-Bellman-ford-algorithm/" %}
 
 {% embed url="http://www.cs.albany.edu/~cchelmis/pubs/raw15.pdf" %}
-
-![](.gitbook/assets/282c69f822ed2447614576b30f49cdc3.jpeg)
 
