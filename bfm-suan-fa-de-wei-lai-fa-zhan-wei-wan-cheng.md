@@ -50,5 +50,7 @@
 
 {% embed url="https://www.tib.eu/en/search/id/ieee%3Adoi~10.1109%252FICECA.2017.8212794/Parallel-implementation-of-Bellman-ford-algorithm/" %}
 
- [http://www.cs.albany.edu/~cchelmis/pubs/raw15.pdf](http://www.cs.albany.edu/~cchelmis/pubs/raw15.pdf)
+{% embed url="http://www.cs.albany.edu/~cchelmis/pubs/raw15.pdf" %}
+
+![](.gitbook/assets/282c69f822ed2447614576b30f49cdc3.jpeg)
 

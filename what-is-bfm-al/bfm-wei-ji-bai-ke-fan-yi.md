@@ -83,7 +83,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>| 清单 |
+</table>
+
+| 清单 |
 | :--- |
 
 
@@ -103,7 +105,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>| 相关话题 |
+</table>
+
+| 相关话题 |
 | :--- |
 
 
@@ -125,7 +129,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -141,7 +147,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>在图形的各种应用中发现了负边缘权重，因此该算法很有用。[\[3\]](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#cite_note-FOOTNOTESedgewick2002-3) 如果图形包含从源头可以到达的“负循环”（即边的总和为负值的[循环](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29)），则没有最便宜的路径：在负循环上有点的任何路径都可以绕负周期再[走一圈](https://en.wikipedia.org/wiki/Walk_%28graph_theory%29)，使价格更便宜。在这种情况下，Bellman-Ford算法可以检测并报告负循环。[\[1\] ](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#cite_note-Bang-1)[\[4\]](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#cite_note-FOOTNOTEKleinbergTardos2006-4)
+</table>
+
+在图形的各种应用中发现了负边缘权重，因此该算法很有用。[\[3\]](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#cite_note-FOOTNOTESedgewick2002-3) 如果图形包含从源头可以到达的“负循环”（即边的总和为负值的[循环](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29)），则没有最便宜的路径：在负循环上有点的任何路径都可以绕负周期再[走一圈](https://en.wikipedia.org/wiki/Walk_%28graph_theory%29)，使价格更便宜。在这种情况下，Bellman-Ford算法可以检测并报告负循环。[\[1\] ](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#cite_note-Bang-1)[\[4\]](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#cite_note-FOOTNOTEKleinbergTardos2006-4)
 
 ### 内容 <a id="mw-toc-heading"></a>
 
